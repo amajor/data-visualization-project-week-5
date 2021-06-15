@@ -4,6 +4,8 @@
 
 Reviewing data about unemployment claims in 2019 and 2020.
 
+See results from [the Jupyter Lab in pdf form](./docs/JupyterLab.pdf).
+
 ## Run
 
 Use the command line or launch using your **Anaconda Navigator**.
