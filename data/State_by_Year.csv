@@ -1,107 +1,107 @@
-State,Year,Claims,Claims_in_millions,
-California,2020,11537768,11.5,
-New York,2020,4708666,4.7,
-Florida,2020,4310784,4.3,
-Georgia,2020,4286913,4.3,
-Texas,2020,4210238,4.2,
-Illinois,2020,2889571,2.9,
-Pennsylvania,2020,2713054,2.7,
-Michigan,2020,2270265,2.3,
-Ohio,2020,2164571,2.2,
-Washington,2020,2129555,2.1,
-California,2019,2099313,2.1,
-New Jersey,2020,1966680,2.0,
-Massachusetts,2020,1848923,1.8,
-North Carolina,2020,1550503,1.6,
-Kentucky,2020,1359777,1.4,
-Virginia,2020,1352247,1.4,
-Indiana,2020,1267327,1.3,
-Minnesota,2020,1219560,1.2,
-Wisconsin,2020,1202700,1.2,
-Louisiana,2020,1161301,1.2,
-Maryland,2020,1063334,1.1,
-Arizona,2020,1055782,1.1,
-Missouri,2020,1014897,1.0,
-Tennessee,2020,981814,1.0,
-Oklahoma,2020,972453,1.0,
-Alabama,2020,917838,0.9,
-South Carolina,2020,842348,0.8,
-New York,2019,823926,0.8,
-Nevada,2020,809682,0.8,
-Oregon,2020,764300,0.8,
-Colorado,2020,746167,0.7,
-Pennsylvania,2019,739399,0.7,
-Texas,2019,701860,0.7,
-Connecticut,2020,657343,0.7,
-Iowa,2020,562787,0.6,
-Mississippi,2020,540863,0.5,
-Kansas,2020,539802,0.5,
-New Jersey,2019,492540,0.5,
-Illinois,2019,489831,0.5,
-Arkansas,2020,462896,0.5,
-Hawaii,2020,435582,0.4,
-Puerto Rico,2020,408464,0.4,
-Michigan,2019,376008,0.4,
-Ohio,2019,364912,0.4,
-Washington,2019,340586,0.3,
-Florida,2019,326653,0.3,
-New Mexico,2020,314462,0.3,
-New Hampshire,2020,305509,0.3,
-Massachusetts,2019,296846,0.3,
-Rhode Island,2020,290249,0.3,
-Wisconsin,2019,287043,0.3,
-Idaho,2020,286331,0.3,
-Georgia,2019,284192,0.3,
-Utah,2020,281850,0.3,
-Alaska,2020,272157,0.3,
-West Virginia,2020,251505,0.3,
-Nebraska,2020,239570,0.2,
-Maine,2020,229470,0.2,
-Oregon,2019,218349,0.2,
-Montana,2020,205169,0.2,
-Arizona,2019,203413,0.2,
-Minnesota,2019,195448,0.2,
-Missouri,2019,189680,0.2,
-Delaware,2020,175387,0.2,
-Connecticut,2019,169429,0.2,
-District of Columbia,2020,167177,0.2,
-North Carolina,2019,165986,0.2,
-Maryland,2019,165099,0.2,
-Kentucky,2019,158517,0.2,
-Iowa,2019,149561,0.1,
-Indiana,2019,137063,0.1,
-Virginia,2019,134957,0.1,
-Tennessee,2019,134818,0.1,
-Alabama,2019,130685,0.1,
-South Carolina,2019,121141,0.1,
-Nevada,2019,119418,0.1,
-North Dakota,2020,116572,0.1,
-Vermont,2020,109251,0.1,
-Louisiana,2019,103785,0.1,
-Oklahoma,2019,100073,0.1,
-Colorado,2019,98747,0.1,
-Arkansas,2019,96279,0.1,
-Kansas,2019,87331,0.1,
-Wyoming,2020,84308,0.1,
-South Dakota,2020,75902,0.1,
-Puerto Rico,2019,66514,0.1,
-Mississippi,2019,61914,0.1,
-Hawaii,2019,61751,0.1,
-Idaho,2019,58791,0.1,
-West Virginia,2019,57868,0.1,
-Utah,2019,57200,0.1,
-Rhode Island,2019,55899,0.1,
-Montana,2019,50107,0.1,
-Alaska,2019,48368,0.0,
-New Mexico,2019,43578,0.0,
-Nebraska,2019,40117,0.0,
-Maine,2019,35367,0.0,
-Delaware,2019,32072,0.0,
-District of Columbia,2019,27803,0.0,
-Vermont,2019,27689,0.0,
-New Hampshire,2019,27149,0.0,
-North Dakota,2019,23479,0.0,
-Wyoming,2019,20819,0.0,
-South Dakota,2019,12080,0.0,
-Virgin Islands,2020,5066,0.0,
-Virgin Islands,2019,1532,0.0,
+State,Year,Claims,Claims_in_millions
+California,2020,11537768,11.5
+New York,2020,4708666,4.7
+Florida,2020,4310784,4.3
+Georgia,2020,4286913,4.3
+Texas,2020,4210238,4.2
+Illinois,2020,2889571,2.9
+Pennsylvania,2020,2713054,2.7
+Michigan,2020,2270265,2.3
+Ohio,2020,2164571,2.2
+Washington,2020,2129555,2.1
+California,2019,2099313,2.1
+New Jersey,2020,1966680,2.0
+Massachusetts,2020,1848923,1.8
+North Carolina,2020,1550503,1.6
+Kentucky,2020,1359777,1.4
+Virginia,2020,1352247,1.4
+Indiana,2020,1267327,1.3
+Minnesota,2020,1219560,1.2
+Wisconsin,2020,1202700,1.2
+Louisiana,2020,1161301,1.2
+Maryland,2020,1063334,1.1
+Arizona,2020,1055782,1.1
+Missouri,2020,1014897,1.0
+Tennessee,2020,981814,1.0
+Oklahoma,2020,972453,1.0
+Alabama,2020,917838,0.9
+South Carolina,2020,842348,0.8
+New York,2019,823926,0.8
+Nevada,2020,809682,0.8
+Oregon,2020,764300,0.8
+Colorado,2020,746167,0.7
+Pennsylvania,2019,739399,0.7
+Texas,2019,701860,0.7
+Connecticut,2020,657343,0.7
+Iowa,2020,562787,0.6
+Mississippi,2020,540863,0.5
+Kansas,2020,539802,0.5
+New Jersey,2019,492540,0.5
+Illinois,2019,489831,0.5
+Arkansas,2020,462896,0.5
+Hawaii,2020,435582,0.4
+Puerto Rico,2020,408464,0.4
+Michigan,2019,376008,0.4
+Ohio,2019,364912,0.4
+Washington,2019,340586,0.3
+Florida,2019,326653,0.3
+New Mexico,2020,314462,0.3
+New Hampshire,2020,305509,0.3
+Massachusetts,2019,296846,0.3
+Rhode Island,2020,290249,0.3
+Wisconsin,2019,287043,0.3
+Idaho,2020,286331,0.3
+Georgia,2019,284192,0.3
+Utah,2020,281850,0.3
+Alaska,2020,272157,0.3
+West Virginia,2020,251505,0.3
+Nebraska,2020,239570,0.2
+Maine,2020,229470,0.2
+Oregon,2019,218349,0.2
+Montana,2020,205169,0.2
+Arizona,2019,203413,0.2
+Minnesota,2019,195448,0.2
+Missouri,2019,189680,0.2
+Delaware,2020,175387,0.2
+Connecticut,2019,169429,0.2
+District of Columbia,2020,167177,0.2
+North Carolina,2019,165986,0.2
+Maryland,2019,165099,0.2
+Kentucky,2019,158517,0.2
+Iowa,2019,149561,0.1
+Indiana,2019,137063,0.1
+Virginia,2019,134957,0.1
+Tennessee,2019,134818,0.1
+Alabama,2019,130685,0.1
+South Carolina,2019,121141,0.1
+Nevada,2019,119418,0.1
+North Dakota,2020,116572,0.1
+Vermont,2020,109251,0.1
+Louisiana,2019,103785,0.1
+Oklahoma,2019,100073,0.1
+Colorado,2019,98747,0.1
+Arkansas,2019,96279,0.1
+Kansas,2019,87331,0.1
+Wyoming,2020,84308,0.1
+South Dakota,2020,75902,0.1
+Puerto Rico,2019,66514,0.1
+Mississippi,2019,61914,0.1
+Hawaii,2019,61751,0.1
+Idaho,2019,58791,0.1
+West Virginia,2019,57868,0.1
+Utah,2019,57200,0.1
+Rhode Island,2019,55899,0.1
+Montana,2019,50107,0.1
+Alaska,2019,48368,0.0
+New Mexico,2019,43578,0.0
+Nebraska,2019,40117,0.0
+Maine,2019,35367,0.0
+Delaware,2019,32072,0.0
+District of Columbia,2019,27803,0.0
+Vermont,2019,27689,0.0
+New Hampshire,2019,27149,0.0
+North Dakota,2019,23479,0.0
+Wyoming,2019,20819,0.0
+South Dakota,2019,12080,0.0
+Virgin Islands,2020,5066,0.0
+Virgin Islands,2019,1532,0.0
